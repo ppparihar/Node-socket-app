@@ -1,0 +1,27 @@
+{
+  "name": "nodesocketapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppparihar/Node-socket-app.git"
+  },
+  "keywords": [
+    "Node",
+    "socket"
+  ],
+  "author": "pparihar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppparihar/Node-socket-app/issues"
+  },
+  "homepage": "https://github.com/ppparihar/Node-socket-app#readme",
+  "dependencies": {
+    "express": "^4.15.0",
+    "socket.io": "^1.7.3"
+  }
+}
